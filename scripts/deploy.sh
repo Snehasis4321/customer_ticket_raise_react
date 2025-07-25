@@ -4,3 +4,6 @@
 cd /home/servers/frontend
 
 echo "Deployment completed successfully"
+
+systemctl restart support_frontend.service
+systemctl status support_frontend.service
