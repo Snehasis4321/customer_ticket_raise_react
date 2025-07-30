@@ -1,7 +1,7 @@
 version: 0.2
 env:
   variables:
-    VITE_API_URL: "http://52.15.211.59:9000"
+    VITE_API_URL: "https://customer-support.snehasis.com"
 phases:
   install:
     runtime-versions:
